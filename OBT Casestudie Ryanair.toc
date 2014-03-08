@@ -2,3 +2,4 @@
 \contentsline {part}{I\hspace {1em}Samenvatting voor de raad van Bestuur}{3}
 \contentsline {part}{II\hspace {1em}Concurrentie en Competitie}{4}
 \contentsline {section}{\numberline {1}Ryanair en easyJet}{4}
+\contentsline {section}{\numberline {2}Andere concurrenten}{4}
