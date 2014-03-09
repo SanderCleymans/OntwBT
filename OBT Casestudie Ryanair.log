@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.3.7)  9 MAR 2014 15:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.3.9)  9 MAR 2014 21:33
 entering extended mode
 **OBT*Casestudie*Ryanair.tex
-("C:\Users\Sander\OntwBT\OBT Casestudie Ryanair.tex"
+("C:\Users\Sander\Documents\OntwBT\OBT Casestudie Ryanair.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -81,7 +81,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Users\Sander\OntwBT\OBT Casestudie Ryanair.aux")
+("C:\Users\Sander\Documents\OntwBT\OBT Casestudie Ryanair.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -94,21 +94,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-
-("C:\Program Files (x86)\LaTEX\tex\context\base\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count89
-\scratchdimen=\dimen106
-\scratchbox=\box26
-\nofMPsegments=\count90
-\nofMParguments=\count91
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count92
-\MPscratchDim=\dimen107
-\MPnumerator=\count93
-\makeMPintoPDFobject=\count94
-\everyMPtoPDFconversion=\toks16
-)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -118,7 +103,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Sander/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("C:\Users\Sander\OntwBT\OBT Casestudie Ryanair.toc")
+("C:\Users\Sander\Documents\OntwBT\OBT Casestudie Ryanair.toc")
 \tf@toc=\write3
  [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 28.
@@ -151,29 +136,29 @@ File: image3.png Graphic file (type png)
  <use image3.png>
 Package pdftex.def Info: image3.png used on input line 126.
 (pdftex.def)             Requested size: 337.9322pt x 178.74657pt.
- [7 <C:/Users/Sander/OntwBT/image1.png>] [8 <C:/Users/Sander/OntwBT/image2.png>
- <C:/Users/Sander/OntwBT/image3.png>] ("C:\Users\Sander\OntwBT\OBT Casestudie R
-yanair.aux") ) 
+ [7 <C:/Users/Sander/Documents/OntwBT/image1.png>] [8 <C:/Users/Sander/Document
+s/OntwBT/image2.png> <C:/Users/Sander/Documents/OntwBT/image3.png>] [9]
+("C:\Users\Sander\Documents\OntwBT\OBT Casestudie Ryanair.aux") ) 
 Here is how much of TeX's memory you used:
- 1513 strings out of 493921
- 19739 string characters out of 3146879
- 75320 words of memory out of 3000000
- 4827 multiletter control sequences out of 15000+200000
+ 1218 strings out of 493921
+ 15920 string characters out of 3146879
+ 72008 words of memory out of 3000000
+ 4535 multiletter control sequences out of 15000+200000
  8501 words of font info for 30 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,8n,24p,732b,284s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmbx
-10.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
-s (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/
-LaTEX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/LaTEX/fon
-ts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/
-public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb>
-Output written on "OBT Casestudie Ryanair.pdf" (8 pages, 457128 bytes).
+ 27i,8n,24p,747b,284s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Fi
+les (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x8
+6)/LaTEX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/LaTE
+X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/LaTEX/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/ams
+fonts/cm/cmr6.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/
+cmr7.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "OBT Casestudie Ryanair.pdf" (9 pages, 460288 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
