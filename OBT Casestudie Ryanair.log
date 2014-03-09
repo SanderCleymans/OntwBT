@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.3.9)  9 MAR 2014 21:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.3.9)  10 MAR 2014 00:11
 entering extended mode
 **OBT*Casestudie*Ryanair.tex
 ("C:\Users\Sander\Documents\OntwBT\OBT Casestudie Ryanair.tex"
@@ -94,6 +94,21 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
+
+("C:\Program Files (x86)\LaTEX\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen106
+\scratchbox=\box26
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen107
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -137,13 +152,25 @@ File: image3.png Graphic file (type png)
 Package pdftex.def Info: image3.png used on input line 126.
 (pdftex.def)             Requested size: 337.9322pt x 178.74657pt.
  [7 <C:/Users/Sander/Documents/OntwBT/image1.png>] [8 <C:/Users/Sander/Document
-s/OntwBT/image2.png> <C:/Users/Sander/Documents/OntwBT/image3.png>] [9]
+s/OntwBT/image2.png> <C:/Users/Sander/Documents/OntwBT/image3.png>]
+<image4.png, id=39, 1003.49907pt x 492.33937pt>
+File: image4.png Graphic file (type png)
+ <use image4.png>
+Package pdftex.def Info: image4.png used on input line 147.
+(pdftex.def)             Requested size: 345.19695pt x 169.36143pt.
+ [9 <C:/Users/Sander/Documents/OntwBT/image4.png>]
+<image5.png, id=43, 966.61125pt x 435.12563pt>
+File: image5.png Graphic file (type png)
+ <use image5.png>
+Package pdftex.def Info: image5.png used on input line 162.
+(pdftex.def)             Requested size: 338.319pt x 152.29625pt.
+ [10 <C:/Users/Sander/Documents/OntwBT/image5.png>] [11]
 ("C:\Users\Sander\Documents\OntwBT\OBT Casestudie Ryanair.aux") ) 
 Here is how much of TeX's memory you used:
- 1218 strings out of 493921
- 15920 string characters out of 3146879
- 72008 words of memory out of 3000000
- 4535 multiletter control sequences out of 15000+200000
+ 1523 strings out of 493921
+ 19967 string characters out of 3146879
+ 75320 words of memory out of 3000000
+ 4835 multiletter control sequences out of 15000+200000
  8501 words of font info for 30 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,8n,24p,747b,284s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -156,9 +183,9 @@ blic/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/ams
 fonts/cm/cmr6.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/
 cmr7.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 <C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "OBT Casestudie Ryanair.pdf" (9 pages, 460288 bytes).
+Output written on "OBT Casestudie Ryanair.pdf" (11 pages, 1675270 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
