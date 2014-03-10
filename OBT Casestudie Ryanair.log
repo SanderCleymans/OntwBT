@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.3.9)  10 MAR 2014 00:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.3.9)  10 MAR 2014 12:02
 entering extended mode
 **OBT*Casestudie*Ryanair.tex
 ("C:\Users\Sander\Documents\OntwBT\OBT Casestudie Ryanair.tex"
@@ -130,50 +130,50 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
  [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 55.
+(Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 55.
+(Font)              <5> on input line 51.
  [4] [5] [6]
 <image1.png, id=29, 607.068pt x 307.1475pt>
 File: image1.png Graphic file (type png)
  <use image1.png>
-Package pdftex.def Info: image1.png used on input line 118.
+Package pdftex.def Info: image1.png used on input line 114.
 (pdftex.def)             Requested size: 339.95576pt x 172.00142pt.
 
 <image2.png, id=30, 601.64775pt x 318.59026pt>
 File: image2.png Graphic file (type png)
  <use image2.png>
-Package pdftex.def Info: image2.png used on input line 122.
+Package pdftex.def Info: image2.png used on input line 118.
 (pdftex.def)             Requested size: 336.92044pt x 178.40932pt.
 
 <image3.png, id=31, 603.4545pt x 319.1925pt>
 File: image3.png Graphic file (type png)
  <use image3.png>
-Package pdftex.def Info: image3.png used on input line 126.
+Package pdftex.def Info: image3.png used on input line 122.
 (pdftex.def)             Requested size: 337.9322pt x 178.74657pt.
  [7 <C:/Users/Sander/Documents/OntwBT/image1.png>] [8 <C:/Users/Sander/Document
 s/OntwBT/image2.png> <C:/Users/Sander/Documents/OntwBT/image3.png>]
 <image4.png, id=39, 1003.49907pt x 492.33937pt>
 File: image4.png Graphic file (type png)
  <use image4.png>
-Package pdftex.def Info: image4.png used on input line 147.
+Package pdftex.def Info: image4.png used on input line 143.
 (pdftex.def)             Requested size: 345.19695pt x 169.36143pt.
  [9 <C:/Users/Sander/Documents/OntwBT/image4.png>]
 <image5.png, id=43, 966.61125pt x 435.12563pt>
 File: image5.png Graphic file (type png)
  <use image5.png>
-Package pdftex.def Info: image5.png used on input line 162.
+Package pdftex.def Info: image5.png used on input line 158.
 (pdftex.def)             Requested size: 338.319pt x 152.29625pt.
- [10 <C:/Users/Sander/Documents/OntwBT/image5.png>] [11]
+ [10 <C:/Users/Sander/Documents/OntwBT/image5.png>] [11] [12] [13]
 ("C:\Users\Sander\Documents\OntwBT\OBT Casestudie Ryanair.aux") ) 
 Here is how much of TeX's memory you used:
- 1523 strings out of 493921
- 19967 string characters out of 3146879
+ 1521 strings out of 493921
+ 19943 string characters out of 3146879
  75320 words of memory out of 3000000
- 4835 multiletter control sequences out of 15000+200000
- 8501 words of font info for 30 fonts, out of 3000000 for 9000
+ 4833 multiletter control sequences out of 15000+200000
+ 8202 words of font info for 29 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,8n,24p,747b,284s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,8n,24p,746b,284s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Fi
 les (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x8
 6)/LaTEX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/LaTE
@@ -183,9 +183,9 @@ blic/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/ams
 fonts/cm/cmr6.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/
 cmr7.pfb><C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
 <C:/Program Files (x86)/LaTEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "OBT Casestudie Ryanair.pdf" (11 pages, 1675270 bytes).
+Output written on "OBT Casestudie Ryanair.pdf" (13 pages, 1680118 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
